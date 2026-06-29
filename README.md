@@ -44,6 +44,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 27**: Day 27 - OSPF (part 2)
 - **Day 28**: Day 28 - OSPF (part 3)
 - **Day 29**: Day 29 - First Hop Redundancy Protocols
+- **Day 30**: Day 30 - TCP & UDP
 
 
 
