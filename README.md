@@ -46,6 +46,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 29**: Day 29 - First Hop Redundancy Protocols
 - **Day 30**: Day 30 - TCP & UDP
 - **Day 31**: Day 31 - IPv6 (part 1)
+- **Day 32**: Day 31 - IPv6 (part 2)
 
 
 
