@@ -48,6 +48,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 31**: Day 31 - IPv6 (part 1)
 - **Day 32**: Day 31 - IPv6 (part 2)
 - **Day 33**: Day 33 - IPv6 (part 3)
+- **Day 34**: Day 34 - Standard ACLs
 
 
 
